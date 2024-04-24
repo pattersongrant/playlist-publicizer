@@ -1,1 +1,1 @@
-Sets all Spotify playlists to public/private with one click.
+Set all Spotify playlists to public/private with one click.
