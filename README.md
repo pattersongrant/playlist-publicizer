@@ -1,6 +1,5 @@
-Set all Spotify playlists to public/private with one click.
-
-Saves hours of time of switching the visibility of individual playlists.
+Set all Spotify playlists on your profile to public or private with one click.
+Saves hours of time compared to switching the visibility of hundreds of individual playlists.
 
 <img width="678" alt="Screenshot 2024-11-11 at 2 45 52 PM" src="https://github.com/user-attachments/assets/a0073439-96f3-46ae-9b60-8e541a7089a9">
 
