@@ -1,4 +1,4 @@
-Set all Spotify playlists on your profile to public or private with one click.
+Set all your Spotify playlists to public or private with one click.
 
 ##
 
